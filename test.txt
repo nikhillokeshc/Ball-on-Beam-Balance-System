@@ -1,7 +1,9 @@
-updated the test document 
 
+updated the test document
 
 to 
 
+again
 
-multiple lines
+
+Conflict Resolved !!!
